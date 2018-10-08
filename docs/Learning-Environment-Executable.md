@@ -31,10 +31,10 @@ Make sure the Brains in the scene have the right type. For example, if you want
 to be able to control your agents from Python, you will need to set the
 corresponding Brain to **External**.
 
-1. In the **Scene** window, click the triangle icon next to the Ball3DAcademy
+1. In the **Heierachy** window, click the triangle icon next to the Ball3DAcademy
    object.
 2. Select its child object **Ball3DBrain**.
-3. In the Inspector window, set **Brain Type** to **External**.
+3. In the **Inspector** window, set **Brain Type** to **External**.
 
 ![Set Brain to External](images/mlagents-SetExternalBrain.png)
 
